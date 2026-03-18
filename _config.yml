@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the website for the Ohio Travel Demand Model User Group, a group of 
   public agency staff, consultants, and vendors that meets periodically to 
   further the goal of better transportation analysis methods.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.otdmug.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "otdmug.github.io" # the subpath of your site, e.g. /blog
+# url: "https://www.otdmug.org" # the base hostname & protocol for your site, e.g. http://example.com
 don_scott_map_url: "https://maps.app.goo.gl/EUSoW8HXh7bbxxsQ8"
 # twitter_username: hambrew807
 # github_username: AndrewTheTM
