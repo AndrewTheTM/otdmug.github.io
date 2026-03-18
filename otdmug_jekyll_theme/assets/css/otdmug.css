@@ -1,0 +1,64 @@
+
+.otdmug_pagetitle {
+    font-size: 2rem;
+    color: #e84747;
+    font-weight: bold;
+    line-height: 3em;
+}
+
+.otdmug_pagetitle_sm{
+    font-size: 1;
+    color: #e84747;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+.otdmug-navbar {
+    color: #ffffff;
+    background-color: #333333;
+}
+
+.otdmug-sidebar {
+    width: 90%;
+    border-width: 0.5em;
+    border-color: white;
+}
+
+.nav-link{
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    font-weight: bold;
+    font-family: 'Francois One', Tahoma, Arial;
+    color: #333;
+    line-height: 1.4em;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    text-transform: uppercase;
+    padding: 0.3em 0;
+    border-bottom: 5px solid #333;
+    text-align: left;
+}
+
+h1 a:link, h1 a:visited{
+    color: #333;
+}
+
+h1 a:hover{
+    color: #bebebe;
+}
+
+.post-content{
+    text-align: left;
+}

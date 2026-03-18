@@ -1,0 +1,12 @@
+<div class="col-3 text-center d-none d-lg-block">
+    <div class="otdmug-navbar otdmug-sidebar">
+        Latest Posts
+    </div>
+    <div class="text-left">
+        <ul>
+            {% for post in site.posts limit: 5 %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
