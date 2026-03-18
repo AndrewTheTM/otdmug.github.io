@@ -31,9 +31,11 @@ don_scott_map_url: "https://maps.app.goo.gl/EUSoW8HXh7bbxxsQ8"
 # github_username: AndrewTheTM
 
 # Build settings
-theme: otdmug_jekyll_theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: AndrewTheTM/otdmug_jekyll_theme
 
 permalink: /content/:title.html
 
