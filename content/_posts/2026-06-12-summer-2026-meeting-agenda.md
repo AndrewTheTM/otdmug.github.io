@@ -1,11 +1,11 @@
 ---
 author: AndrewTheTM
-date: '2025-11-20'
-title: Winter 2025 Meeting Agenda
+date: '2026-06-12'
+title: Summer 2026 Meeting Agenda
 type: "agenda"
 ---
 
-Friday, June 12, 2025  
+Friday, June 12, 2026
 10:00 am - 1:00 pm  
 ODOT, Don Scott Airport, Room 100  
 [2829 W. Dublin-Granville Road, Columbus, OH, 43235]({{ site.don_scott_map_url }})
